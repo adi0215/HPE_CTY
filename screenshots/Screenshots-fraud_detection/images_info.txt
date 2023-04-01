@@ -1,0 +1,3 @@
+From swarm_1 to swarm_8 is SWCI node
+From swarm_9 to swarm_12 is SWOP logs
+docker logs sn1 is logs of SN1
