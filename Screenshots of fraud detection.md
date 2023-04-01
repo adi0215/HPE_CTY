@@ -1,4 +1,4 @@
-From swarm_1 to swarm_8 is SWCI node
+Running the credit card fraud detection:
 
 ![swarm_1](https://user-images.githubusercontent.com/115392089/229304921-7a079e6e-571f-4667-a03c-5304945eaa44.jpeg)
 
@@ -16,4 +16,6 @@ From swarm_1 to swarm_8 is SWCI node
 
 ![swarm_8](https://user-images.githubusercontent.com/115392089/229305040-f87151b9-5a4e-4652-b057-1a4270e89774.jpeg)
 
-From swarm_9 to swarm_12 is SWOP logs
+SWOP logs:
+
+
