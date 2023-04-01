@@ -18,4 +18,15 @@ Running the credit card fraud detection:
 
 SWOP logs:
 
+![swarm_9](https://user-images.githubusercontent.com/115392089/229305233-5d155e19-ddd7-4949-9e68-e697eeff5186.jpeg)
 
+![swarm_10](https://user-images.githubusercontent.com/115392089/229305241-35c7c317-5f23-4026-9241-41824d71faec.jpeg)
+
+![swarm_11](https://user-images.githubusercontent.com/115392089/229305245-0b88c82b-3f7c-46b9-b282-a51ccd4efa33.jpeg)
+
+![swarm_12](https://user-images.githubusercontent.com/115392089/229305252-42a63450-17fa-4c5a-aee0-f7caf6eb8f2d.jpeg)
+
+Log of Swarm Network node (SN1) - sentinel node:
+
+docker logs sn1
+![docker logs sn1](https://user-images.githubusercontent.com/115392089/229305260-b6e77244-424a-41a6-8986-c30ff8ed4083.jpeg)
