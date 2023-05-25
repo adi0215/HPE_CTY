@@ -8,3 +8,5 @@ SWCI WEB MODE:
 ![3  SWCI Web Mode](https://github.com/adi0215/HPE_CTY/assets/112708136/05295027-6154-4d2d-8334-2144be425179)
 
 ![4  SWCI Web Mode](https://github.com/adi0215/HPE_CTY/assets/112708136/dab72d7f-2ed0-4260-9606-9bde9312c87e)
+
+![5  SWCI Web Mode](https://github.com/adi0215/HPE_CTY/assets/112708136/99c315ec-d11c-4400-a074-7d5a9d06b93c)
