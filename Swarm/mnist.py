@@ -57,7 +57,7 @@ def train(model, train_data, train_labels, test_data, test_labels, epochs, batch
         # Evaluate on the test set
         test_loss = 0
         correct = 0
-        with mx.gluon.no_grad():
+        with mx.nd.stop.gradient:
             for data, label in test_data:
                 # Get the predictions
                 predictions = model(data)
